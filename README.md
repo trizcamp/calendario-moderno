@@ -1,6 +1,6 @@
 # Calendario Moderno com HTML e CSS
 Modelo de um calendario com feriados e datas comemorativas
-HOVER|ACTIVE|
+HOVER | ACTIVE
  <p align:center>
     <img src="calendario.png" width:50% alt="calendario">
 </P>
