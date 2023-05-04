@@ -1,0 +1,60 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url("https://4kwallpapers.com/images/wallpapers/macos-monterey-wwdc-21-stock-dark-mode-5k-2560x1440-5585.jpg");
+    background-size: cover;
+    padding: 150px;
+    text-align: center;
+}
+h2{
+    color:white;
+    text-align: center;
+}
+div{
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+div td:first-child{
+    color: rgb(255, 0, 0);
+}
+div td{
+    border: 2px solid rgb(255, 255, 255);
+    padding:15px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+}
+div td:hover{
+    background: rgb(255, 255, 255);
+    color: black;
+}
+.niver:active{
+    background-image: url("bolo.png");
+    background-size:cover;
+    color:white;
+}
+.corpus-crist:hover{
+    background-image: url("https://images.vexels.com/media/users/3/154270/isolated/preview/eae7ba0ad1c60bceb35cdcdcc02049bd-icone-de-cruz-crista.png");
+    background-size:cover;
+    color: rgb(255, 255, 255);
+}
+.valentine:hover{
+    background-image: url("coração.png");
+    background-size:cover;
+    color: #000000;
+}
+    
+img{
+    width:45px;
+    padding:auto;
+}
+.last-mounth{
+    color: gray;
+}
+ul{
+    text-align: start;
+    border-radius: 10px;
+    margin-top: 20px;
+}
